@@ -36,4 +36,4 @@ launch.json
 *.out
 *.app
 *.exec
-
+exec
