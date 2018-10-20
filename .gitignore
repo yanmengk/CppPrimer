@@ -35,5 +35,3 @@ launch.json
 *.exe
 *.out
 *.app
-*.exec
-exec
